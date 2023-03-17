@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Printing text with newline"
-echo -n "Printing text without newline"
+echo "Gadige Chaitanya"
+echo -n "Jai Balayya"
 echo -e "\nRemoving \t backslash \t characters\n"
